@@ -1,4 +1,4 @@
-# Trivial Futurista
+# Trivial 
 
 Este es un proyecto de **Trivial Interactivo** que consume una **API REST pública** para obtener preguntas de trivial en diferentes categorías. La aplicación está diseñada con una interfaz moderna, incluyendo un temporizador para responder a cada pregunta.
 
